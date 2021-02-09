@@ -112,7 +112,7 @@ class Rectangle extends GeometricObject{
 }
 
 
-public class Main {
+public class Java {
     public static void main(String[] args) {
         // Create an array of four objects
         GeometricObject[] array = {new Circle(5), new Circle(8),
